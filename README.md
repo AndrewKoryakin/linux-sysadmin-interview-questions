@@ -167,6 +167,7 @@ The majority of the questions were collected from:
 * You have added an IPv4 and IPv6 address to interface eth0. A ping to the v4 address is working but a ping to the v6 address gives yout the response ```sendmsg: operation not permitted```. What could be wrong?
 * What is SNAT and when should be used?
 * Explain how could you ssh login into a Linux system that DROPs all new incomming packets using a SSH tunnel.
+* What "netns" feature of "ip" package is used for? Briefly explain the mechanism of it's work. How FreeBSD analog of this is called?
 
 ####[[⬆]](#toc) <a name='devop'>DevOp Questions:</a>
 
@@ -186,7 +187,8 @@ The majority of the questions were collected from:
 * What is the difference between fork and thread? And parent and child process in fork system call?
 * What's the relationship between continuous delivery and DevOps?
 * What are the important aspects of a system of continous integration and deployment?
-
+* Can CEPH filesystem be utilised using Filesystem in User Space (FUSE) API? (yes/no)
+* 
 
 ####[[⬆]](#toc) <a name='fun'>Fun Questions:</a>
 
